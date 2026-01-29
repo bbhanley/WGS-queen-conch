@@ -10,7 +10,7 @@
   - preheat thermomixer to 56C
 
 
-### Steps: \*\*This should be done around 10 am the day before the extraction is to be done so that the samples can sit for 24 hours\*\***
+### Steps: \*\*This should be done the day before the extraction is to be done so that the samples can sit for 24 hours\*\**
 
 1. Place ALL of the sample into a clean 2mL tube. If there are two pieces, only take one
 
@@ -20,7 +20,8 @@
 
 3. Vortex to mix thoroughly
 
-4. Incubate overnight at 56C and 600 rpm
+4. Incubate overnight at 56C and 600 rpm  
+
 
 
 ## Extraction
@@ -36,10 +37,10 @@
 ### Steps:
 
 1. **In the fume hood**, add **550ul** chloroform:isoamyl alcohol (24:1) to each sample. Wear safety glasses and long sleeves\! Make a new aliquot for each extraction, and try to only aliquot the amount you need, not extra. If there is a small amount you didn’t use, dispose of it in the **properly labeled hazardous waste container**. After the chloroform is added, leave these things inside the fume hood for **at least 2 hours** to let any excess chloroform evaporate:  
-   a. Used tips  
-   b. Old sample rack  
-   c. Chloroform aliquot (leave this open) and its rack  
-   d. Hazardous waste container (closed)
+    a. Used tips  
+    b. Old sample rack  
+    c. Chloroform aliquot (leave this open) and its rack  
+    d. Hazardous waste container (closed)
    
   
 2. Vortex to mix thoroughly – the liquid should turn a milky white  
@@ -49,6 +50,7 @@
      
      
 4. Transfer the **upper aqueous phase** into a clean 1.5ml tube. **Avoid the milky interface** containing contaminants and inhibitors. Carefully record how much of the liquid you are able to aspirate from each sample – try to get as much as you can   
+
     a. If the upper aqueous phase is too small: Add 450ul ML1 buffer, vortex, and centrifuge at 10,000g for 2 minutes. 
 
     b. **If the upper aqueous phase has a jelly-like viscosity:** 
