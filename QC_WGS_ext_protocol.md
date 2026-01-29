@@ -1,10 +1,11 @@
 
 # Queen conch extraction protocol
-### Using the Omega E.Z.N.A. mollusc extraction kit D3373-02
+#### Using the Omega E.Z.N.A. mollusc extraction kit D3373-02
+
 
 ## Digestion
 
-# Prep:
+### Prep:
 Molecular water and n 2ml tubes for washing samples
 n disposable razor blades
 2n tweezers - two new tweezers for each sample
@@ -27,7 +28,8 @@ preheat thermomixer to 56C
 
 
 ## Extraction
-# Prep:
+
+### Prep:
 - Take note of any reagents that need ethanol or isopropanol added before use
 - Set thermomixer to 70C
 - Set up fume hood by placing down some paper towels and bringing in an extra rack for the samples, tips and a pipette, a waste bucket for used tips, a 50ml tube for aliquoting the chloroform isoamyl alcohol, and a rack to hold the aliquot
